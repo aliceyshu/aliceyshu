@@ -1,10 +1,8 @@
 <h2 align="center">Hi 👋, I'm Alice</h2>
 <h3 align="center">MSc Data Science Graduate | Specializing in ML and Quantitative Research</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliceyshu&label=Profile%20views&color=0e75b6&style=flat" alt="aliceyshu" /> </p>
-
+- <img src="https://komarev.com/ghpvc/?username=aliceyshu&label=Profile%20views&color=0e75b6&style=flat" alt="aliceyshu" />
 - 📫 How to reach me **aliceshuqi99@gmail.com**
-
 - ⚡ Fun fact **I love meditation**
 
 <h3 align="left">Languages and Tools:</h3>
