@@ -2,6 +2,7 @@
 <h3 align="center">MSc Data Science Graduate | Specializing in ML and Quantitative Research</h3>
 
 - <img src="https://komarev.com/ghpvc/?username=aliceyshu&label=Profile%20views&color=0e75b6&style=flat" alt="aliceyshu" />
+- 🏫 MSc in Data Science at [TMU](https://www.torontomu.ca/graduate/programs/data-science-analytics/), BSc in Stats at [UofT](https://utsc.calendar.utoronto.ca/section/Statistics)
 - 📫 How to reach me **aliceshuqi99@gmail.com**
 - ⚡ Fun fact **I love meditation**
 
